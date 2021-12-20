@@ -1,1 +1,1 @@
-A dinoasaur was roaming in a desert in search of food..
+A dinoasaur was roaming in a desert in search of food.But he needs to jumps over all the cactuses.
